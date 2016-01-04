@@ -1,4 +1,8 @@
 hjgfhdf
 jsdhfjdshfdj
 :wq
+<<<<<<< HEAD
 dbfcdhgbhf
+=======
+this is java
+>>>>>>> 6e7252b12d1ed87e72d946c4fd909f0fab4f6dc6
